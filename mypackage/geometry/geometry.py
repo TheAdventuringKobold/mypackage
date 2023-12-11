@@ -1,5 +1,6 @@
 from ..utils import distance
 
+
 class Point:
     def __init__(self, x: float, y: float) -> None:
         self.x = x
