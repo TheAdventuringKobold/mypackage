@@ -1,4 +1,3 @@
-import math
 
 
 def distance(p1: "Point", p2: "Point") -> float:
