@@ -6,6 +6,7 @@ class Point:
         self.x = x
         self.y = y
 
+
 class Line:
     def __init__(self, p1: "Point", p2: "Point") -> None:
         self.p1 = p1
